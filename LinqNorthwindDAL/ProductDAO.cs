@@ -1,9 +1,12 @@
-﻿using LINQNorthwindBDO;
+﻿using LINQNorthwind.Models.BusinessDomainObjects;
 using System;
 using System.Linq;
 
 namespace LinqNorthwindDAL
 {
+    /// <summary>
+    /// Product Data Access Object
+    /// </summary>
     public class ProductDAO
     {
 
@@ -37,6 +40,12 @@ namespace LinqNorthwindDAL
             return productBDO;
         }
 
+        /// <summary>
+        /// Updates Product Table
+        /// </summary>
+        /// <param name="productBDO"></param>
+        /// <param name="message"></param>
+        /// <returns></returns>
         public bool UpdateProduct(ref ProductBDO productBDO, ref string message)
         {
             message = "Product Updated Successsfully";

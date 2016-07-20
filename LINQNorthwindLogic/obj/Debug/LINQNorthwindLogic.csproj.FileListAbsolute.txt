@@ -34,3 +34,15 @@ C:\Apps\App Tests\WCF\DistNorthwind\LINQNorthwindLogic\bin\Debug\EntityFramework
 C:\Apps\App Tests\WCF\DistNorthwind\LINQNorthwindLogic\obj\Debug\LINQNorthwindLogic.csprojResolveAssemblyReference.cache
 C:\Apps\App Tests\WCF\DistNorthwind\LINQNorthwindLogic\obj\Debug\LINQNorthwindLogic.dll
 C:\Apps\App Tests\WCF\DistNorthwind\LINQNorthwindLogic\obj\Debug\LINQNorthwindLogic.pdb
+C:\Apps\Published\WCF_WPF_Northwind\LINQNorthwindLogic\bin\Debug\LINQNorthwindLogic.dll.config
+C:\Apps\Published\WCF_WPF_Northwind\LINQNorthwindLogic\bin\Debug\LINQNorthwindLogic.dll
+C:\Apps\Published\WCF_WPF_Northwind\LINQNorthwindLogic\bin\Debug\LINQNorthwindLogic.pdb
+C:\Apps\Published\WCF_WPF_Northwind\LINQNorthwindLogic\bin\Debug\LinqNorthwindDAL.dll
+C:\Apps\Published\WCF_WPF_Northwind\LINQNorthwindLogic\bin\Debug\EntityFramework.dll
+C:\Apps\Published\WCF_WPF_Northwind\LINQNorthwindLogic\bin\Debug\LinqNorthwindDAL.pdb
+C:\Apps\Published\WCF_WPF_Northwind\LINQNorthwindLogic\bin\Debug\EntityFramework.xml
+C:\Apps\Published\WCF_WPF_Northwind\LINQNorthwindLogic\obj\Debug\LINQNorthwindLogic.csprojResolveAssemblyReference.cache
+C:\Apps\Published\WCF_WPF_Northwind\LINQNorthwindLogic\obj\Debug\LINQNorthwindLogic.dll
+C:\Apps\Published\WCF_WPF_Northwind\LINQNorthwindLogic\obj\Debug\LINQNorthwindLogic.pdb
+C:\Apps\Published\WCF_WPF_Northwind\LINQNorthwindLogic\bin\Debug\LINQNorthwind.Models.dll
+C:\Apps\Published\WCF_WPF_Northwind\LINQNorthwindLogic\bin\Debug\LINQNorthwind.Models.pdb

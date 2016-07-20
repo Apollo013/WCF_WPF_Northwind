@@ -1,5 +1,5 @@
-﻿using LINQNorthwindBDO;
-using LINQNorthwindDTO;
+﻿using LINQNorthwind.Models.BusinessDomainObjects;
+using LINQNorthwind.Models.DataTransferObjects;
 using LINQNorthwindLogic;
 using LINQNorthwindService.Abstract;
 using LINQNorthwindService.FaultExceptions;

@@ -34,3 +34,15 @@ C:\Apps\App Tests\WCF\DistNorthwind\LinqNorthwindDAL\bin\Debug\EntityFramework.S
 C:\Apps\App Tests\WCF\DistNorthwind\LinqNorthwindDAL\obj\Debug\LinqNorthwindDAL.csprojResolveAssemblyReference.cache
 C:\Apps\App Tests\WCF\DistNorthwind\LinqNorthwindDAL\obj\Debug\LinqNorthwindDAL.dll
 C:\Apps\App Tests\WCF\DistNorthwind\LinqNorthwindDAL\obj\Debug\LinqNorthwindDAL.pdb
+C:\Apps\Published\WCF_WPF_Northwind\LinqNorthwindDAL\bin\Debug\LinqNorthwindDAL.dll.config
+C:\Apps\Published\WCF_WPF_Northwind\LinqNorthwindDAL\bin\Debug\LinqNorthwindDAL.dll
+C:\Apps\Published\WCF_WPF_Northwind\LinqNorthwindDAL\bin\Debug\LinqNorthwindDAL.pdb
+C:\Apps\Published\WCF_WPF_Northwind\LinqNorthwindDAL\bin\Debug\EntityFramework.dll
+C:\Apps\Published\WCF_WPF_Northwind\LinqNorthwindDAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Apps\Published\WCF_WPF_Northwind\LinqNorthwindDAL\bin\Debug\EntityFramework.xml
+C:\Apps\Published\WCF_WPF_Northwind\LinqNorthwindDAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Apps\Published\WCF_WPF_Northwind\LinqNorthwindDAL\obj\Debug\LinqNorthwindDAL.csprojResolveAssemblyReference.cache
+C:\Apps\Published\WCF_WPF_Northwind\LinqNorthwindDAL\obj\Debug\LinqNorthwindDAL.dll
+C:\Apps\Published\WCF_WPF_Northwind\LinqNorthwindDAL\obj\Debug\LinqNorthwindDAL.pdb
+C:\Apps\Published\WCF_WPF_Northwind\LinqNorthwindDAL\bin\Debug\LINQNorthwind.Models.dll
+C:\Apps\Published\WCF_WPF_Northwind\LinqNorthwindDAL\bin\Debug\LINQNorthwind.Models.pdb

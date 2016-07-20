@@ -1,0 +1,5 @@
+C:\Apps\Published\WCF_WPF_Northwind\LINQNorthwind.Models\bin\Debug\LINQNorthwind.Models.dll
+C:\Apps\Published\WCF_WPF_Northwind\LINQNorthwind.Models\bin\Debug\LINQNorthwind.Models.pdb
+C:\Apps\Published\WCF_WPF_Northwind\LINQNorthwind.Models\obj\Debug\LINQNorthwind.Models.dll
+C:\Apps\Published\WCF_WPF_Northwind\LINQNorthwind.Models\obj\Debug\LINQNorthwind.Models.pdb
+C:\Apps\Published\WCF_WPF_Northwind\LINQNorthwind.Models\obj\Debug\LINQNorthwind.Models.csprojResolveAssemblyReference.cache

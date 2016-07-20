@@ -67,13 +67,9 @@
     <None Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\LINQNorthwindBDO\LINQNorthwindBDO.csproj">
-      <Project>{bb9f89e2-07f2-4a3f-9872-1a1b2b53bfd3}</Project>
-      <Name>LINQNorthwindBDO</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\LINQNorthwindDTO\LINQNorthwindDTO.csproj">
-      <Project>{82104431-5ce5-4a64-9b0f-56b2b02d7ddc}</Project>
-      <Name>LINQNorthwindDTO</Name>
+    <ProjectReference Include="..\LINQNorthwind.Models\LINQNorthwind.Models.csproj">
+      <Project>{98e68d23-de74-4926-85ac-f8db7cad696e}</Project>
+      <Name>LINQNorthwind.Models</Name>
     </ProjectReference>
     <ProjectReference Include="..\LINQNorthwindLogic\LINQNorthwindLogic.csproj">
       <Project>{b21b7d36-9cf5-445c-90be-e8a82647d194}</Project>

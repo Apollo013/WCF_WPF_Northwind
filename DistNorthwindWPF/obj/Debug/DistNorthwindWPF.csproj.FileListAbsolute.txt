@@ -61,3 +61,32 @@ C:\Apps\App Tests\WCF\DistNorthwind\DistNorthwindWPF\obj\Debug\DistNorthwindWPF_
 C:\Apps\App Tests\WCF\DistNorthwind\DistNorthwindWPF\obj\Debug\DistNorthwindWPF.g.resources
 C:\Apps\App Tests\WCF\DistNorthwind\DistNorthwindWPF\obj\Debug\DistNorthwindWPF.Properties.Resources.resources
 C:\Apps\App Tests\WCF\DistNorthwind\DistNorthwindWPF\obj\Debug\DistNorthwindWPF.csproj.GenerateResource.Cache
+C:\Apps\Published\WCF_WPF_Northwind\DistNorthwindWPF\bin\Debug\DistNorthwindWPF.exe.config
+C:\Apps\Published\WCF_WPF_Northwind\DistNorthwindWPF\obj\Debug\DistNorthwindWPF.exe
+C:\Apps\Published\WCF_WPF_Northwind\DistNorthwindWPF\obj\Debug\DistNorthwindWPF.pdb
+C:\Apps\Published\WCF_WPF_Northwind\DistNorthwindWPF\bin\Debug\DistNorthwindWPF.exe
+C:\Apps\Published\WCF_WPF_Northwind\DistNorthwindWPF\bin\Debug\DistNorthwindWPF.pdb
+C:\Apps\Published\WCF_WPF_Northwind\DistNorthwindWPF\bin\Debug\WpfRichText.dll
+C:\Apps\Published\WCF_WPF_Northwind\DistNorthwindWPF\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Apps\Published\WCF_WPF_Northwind\DistNorthwindWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Apps\Published\WCF_WPF_Northwind\DistNorthwindWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Apps\Published\WCF_WPF_Northwind\DistNorthwindWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Apps\Published\WCF_WPF_Northwind\DistNorthwindWPF\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Apps\Published\WCF_WPF_Northwind\DistNorthwindWPF\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Apps\Published\WCF_WPF_Northwind\DistNorthwindWPF\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Apps\Published\WCF_WPF_Northwind\DistNorthwindWPF\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Apps\Published\WCF_WPF_Northwind\DistNorthwindWPF\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Apps\Published\WCF_WPF_Northwind\DistNorthwindWPF\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Apps\Published\WCF_WPF_Northwind\DistNorthwindWPF\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Apps\Published\WCF_WPF_Northwind\DistNorthwindWPF\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Apps\Published\WCF_WPF_Northwind\DistNorthwindWPF\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Apps\Published\WCF_WPF_Northwind\DistNorthwindWPF\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Apps\Published\WCF_WPF_Northwind\DistNorthwindWPF\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Apps\Published\WCF_WPF_Northwind\DistNorthwindWPF\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Apps\Published\WCF_WPF_Northwind\DistNorthwindWPF\obj\Debug\MainWindow.baml
+C:\Apps\Published\WCF_WPF_Northwind\DistNorthwindWPF\obj\Debug\MainWindow.g.cs
+C:\Apps\Published\WCF_WPF_Northwind\DistNorthwindWPF\obj\Debug\App.g.cs
+C:\Apps\Published\WCF_WPF_Northwind\DistNorthwindWPF\obj\Debug\DistNorthwindWPF_MarkupCompile.cache
+C:\Apps\Published\WCF_WPF_Northwind\DistNorthwindWPF\obj\Debug\DistNorthwindWPF.g.resources
+C:\Apps\Published\WCF_WPF_Northwind\DistNorthwindWPF\obj\Debug\DistNorthwindWPF.Properties.Resources.resources
+C:\Apps\Published\WCF_WPF_Northwind\DistNorthwindWPF\obj\Debug\DistNorthwindWPF.csproj.GenerateResource.Cache

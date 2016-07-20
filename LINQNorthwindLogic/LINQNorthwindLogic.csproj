@@ -44,9 +44,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\LINQNorthwindBDO\LINQNorthwindBDO.csproj">
-      <Project>{bb9f89e2-07f2-4a3f-9872-1a1b2b53bfd3}</Project>
-      <Name>LINQNorthwindBDO</Name>
+    <ProjectReference Include="..\LINQNorthwind.Models\LINQNorthwind.Models.csproj">
+      <Project>{98e68d23-de74-4926-85ac-f8db7cad696e}</Project>
+      <Name>LINQNorthwind.Models</Name>
     </ProjectReference>
     <ProjectReference Include="..\LinqNorthwindDAL\LinqNorthwindDAL.csproj">
       <Project>{ef6ae400-7e83-4ad5-9d42-ad90d8cbbd7f}</Project>

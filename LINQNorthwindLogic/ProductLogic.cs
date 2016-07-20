@@ -1,4 +1,4 @@
-﻿using LINQNorthwindBDO;
+﻿using LINQNorthwind.Models.BusinessDomainObjects;
 using LinqNorthwindDAL;
 
 namespace LINQNorthwindLogic

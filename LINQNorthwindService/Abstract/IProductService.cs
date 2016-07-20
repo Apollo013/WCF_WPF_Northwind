@@ -1,4 +1,4 @@
-﻿using LINQNorthwindDTO;
+﻿using LINQNorthwind.Models.DataTransferObjects;
 using LINQNorthwindService.FaultExceptions;
 using System.ServiceModel;
 
