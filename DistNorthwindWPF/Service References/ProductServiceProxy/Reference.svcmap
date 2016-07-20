@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="a3a4759e-40d2-4821-aa79-23f3a665b2aa" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8080/DistNorthwindService/ProductService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ProductService.wsdl" MetadataType="Wsdl" ID="db5adf9b-bcb2-4774-a50b-3eb45906f0d8" SourceId="1" SourceUrl="http://localhost:8080/DistNorthwindService/ProductService.svc?wsdl" />
+    <MetadataFile FileName="ProductService.xsd" MetadataType="Schema" ID="215e099b-c0d6-4cd6-a158-dc3be6ede583" SourceId="1" SourceUrl="http://localhost:8080/DistNorthwindService/ProductService.svc?xsd=xsd0" />
+    <MetadataFile FileName="ProductService1.xsd" MetadataType="Schema" ID="0ba4a2a7-36e8-4ef9-b598-25542f01fc5a" SourceId="1" SourceUrl="http://localhost:8080/DistNorthwindService/ProductService.svc?xsd=xsd1" />
+    <MetadataFile FileName="ProductService2.xsd" MetadataType="Schema" ID="94c90b23-45a9-4fa3-8a90-b971fd6032e8" SourceId="1" SourceUrl="http://localhost:8080/DistNorthwindService/ProductService.svc?xsd=xsd2" />
+    <MetadataFile FileName="ProductService3.xsd" MetadataType="Schema" ID="dde17ff5-2cc7-428b-b113-5d177e1b205c" SourceId="1" SourceUrl="http://localhost:8080/DistNorthwindService/ProductService.svc?xsd=xsd3" />
+    <MetadataFile FileName="ProductService.disco" MetadataType="Disco" ID="78207b8c-aafc-40d3-b3c7-e8b7105f63aa" SourceId="1" SourceUrl="http://localhost:8080/DistNorthwindService/ProductService.svc?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

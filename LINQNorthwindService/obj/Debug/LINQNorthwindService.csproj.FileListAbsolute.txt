@@ -1,0 +1,46 @@
+C:\Courses\WCF\LinqNorthwindDAL\LINQNorthwindService\bin\Debug\LINQNorthwindService.dll.config
+C:\Courses\WCF\LinqNorthwindDAL\LINQNorthwindService\bin\Debug\LINQNorthwindService.dll
+C:\Courses\WCF\LinqNorthwindDAL\LINQNorthwindService\bin\Debug\LINQNorthwindService.pdb
+C:\Courses\WCF\LinqNorthwindDAL\LINQNorthwindService\bin\Debug\EntityFramework.dll
+C:\Courses\WCF\LinqNorthwindDAL\LINQNorthwindService\bin\Debug\EntityFramework.SqlServer.dll
+C:\Courses\WCF\LinqNorthwindDAL\LINQNorthwindService\bin\Debug\LINQNorthwindBDO.dll
+C:\Courses\WCF\LinqNorthwindDAL\LINQNorthwindService\bin\Debug\LINQNorthwindDTO.dll
+C:\Courses\WCF\LinqNorthwindDAL\LINQNorthwindService\bin\Debug\LINQNorthwindLogic.dll
+C:\Courses\WCF\LinqNorthwindDAL\LINQNorthwindService\bin\Debug\LinqNorthwindDAL.dll
+C:\Courses\WCF\LinqNorthwindDAL\LINQNorthwindService\bin\Debug\LINQNorthwindBDO.pdb
+C:\Courses\WCF\LinqNorthwindDAL\LINQNorthwindService\bin\Debug\LINQNorthwindDTO.pdb
+C:\Courses\WCF\LinqNorthwindDAL\LINQNorthwindService\bin\Debug\LINQNorthwindLogic.pdb
+C:\Courses\WCF\LinqNorthwindDAL\LINQNorthwindService\bin\Debug\EntityFramework.xml
+C:\Courses\WCF\LinqNorthwindDAL\LINQNorthwindService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Courses\WCF\LinqNorthwindDAL\LINQNorthwindService\bin\Debug\LinqNorthwindDAL.pdb
+C:\Courses\WCF\LinqNorthwindDAL\LINQNorthwindService\obj\Debug\LINQNorthwindService.csprojResolveAssemblyReference.cache
+C:\Courses\WCF\LinqNorthwindDAL\LINQNorthwindService\obj\Debug\LINQNorthwindService.dll
+C:\Courses\WCF\LinqNorthwindDAL\LINQNorthwindService\obj\Debug\LINQNorthwindService.pdb
+C:\Courses\WCF\DistNorthwind\LINQNorthwindService\bin\Debug\LINQNorthwindService.dll.config
+C:\Courses\WCF\DistNorthwind\LINQNorthwindService\bin\Debug\LINQNorthwindService.dll
+C:\Courses\WCF\DistNorthwind\LINQNorthwindService\bin\Debug\LINQNorthwindService.pdb
+C:\Courses\WCF\DistNorthwind\LINQNorthwindService\bin\Debug\LINQNorthwindBDO.dll
+C:\Courses\WCF\DistNorthwind\LINQNorthwindService\bin\Debug\LINQNorthwindDTO.dll
+C:\Courses\WCF\DistNorthwind\LINQNorthwindService\bin\Debug\LINQNorthwindLogic.dll
+C:\Courses\WCF\DistNorthwind\LINQNorthwindService\bin\Debug\LinqNorthwindDAL.dll
+C:\Courses\WCF\DistNorthwind\LINQNorthwindService\bin\Debug\LINQNorthwindBDO.pdb
+C:\Courses\WCF\DistNorthwind\LINQNorthwindService\bin\Debug\LINQNorthwindDTO.pdb
+C:\Courses\WCF\DistNorthwind\LINQNorthwindService\bin\Debug\LINQNorthwindLogic.pdb
+C:\Courses\WCF\DistNorthwind\LINQNorthwindService\bin\Debug\LinqNorthwindDAL.pdb
+C:\Courses\WCF\DistNorthwind\LINQNorthwindService\obj\Debug\LINQNorthwindService.csprojResolveAssemblyReference.cache
+C:\Courses\WCF\DistNorthwind\LINQNorthwindService\obj\Debug\LINQNorthwindService.dll
+C:\Courses\WCF\DistNorthwind\LINQNorthwindService\obj\Debug\LINQNorthwindService.pdb
+C:\Apps\App Tests\WCF\DistNorthwind\LINQNorthwindService\bin\Debug\LINQNorthwindService.dll.config
+C:\Apps\App Tests\WCF\DistNorthwind\LINQNorthwindService\bin\Debug\LINQNorthwindService.dll
+C:\Apps\App Tests\WCF\DistNorthwind\LINQNorthwindService\bin\Debug\LINQNorthwindService.pdb
+C:\Apps\App Tests\WCF\DistNorthwind\LINQNorthwindService\bin\Debug\LINQNorthwindBDO.dll
+C:\Apps\App Tests\WCF\DistNorthwind\LINQNorthwindService\bin\Debug\LINQNorthwindDTO.dll
+C:\Apps\App Tests\WCF\DistNorthwind\LINQNorthwindService\bin\Debug\LINQNorthwindLogic.dll
+C:\Apps\App Tests\WCF\DistNorthwind\LINQNorthwindService\bin\Debug\LinqNorthwindDAL.dll
+C:\Apps\App Tests\WCF\DistNorthwind\LINQNorthwindService\bin\Debug\LINQNorthwindBDO.pdb
+C:\Apps\App Tests\WCF\DistNorthwind\LINQNorthwindService\bin\Debug\LINQNorthwindDTO.pdb
+C:\Apps\App Tests\WCF\DistNorthwind\LINQNorthwindService\bin\Debug\LINQNorthwindLogic.pdb
+C:\Apps\App Tests\WCF\DistNorthwind\LINQNorthwindService\bin\Debug\LinqNorthwindDAL.pdb
+C:\Apps\App Tests\WCF\DistNorthwind\LINQNorthwindService\obj\Debug\LINQNorthwindService.csprojResolveAssemblyReference.cache
+C:\Apps\App Tests\WCF\DistNorthwind\LINQNorthwindService\obj\Debug\LINQNorthwindService.dll
+C:\Apps\App Tests\WCF\DistNorthwind\LINQNorthwindService\obj\Debug\LINQNorthwindService.pdb

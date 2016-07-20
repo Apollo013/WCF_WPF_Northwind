@@ -1,0 +1,36 @@
+C:\Courses\WCF\LinqNorthwindDAL\LINQNorthwindLogic\bin\Debug\LINQNorthwindLogic.dll.config
+C:\Courses\WCF\LinqNorthwindDAL\LINQNorthwindLogic\bin\Debug\LINQNorthwindLogic.dll
+C:\Courses\WCF\LinqNorthwindDAL\LINQNorthwindLogic\bin\Debug\LINQNorthwindLogic.pdb
+C:\Courses\WCF\LinqNorthwindDAL\LINQNorthwindLogic\bin\Debug\LINQNorthwindBDO.dll
+C:\Courses\WCF\LinqNorthwindDAL\LINQNorthwindLogic\bin\Debug\LinqNorthwindDAL.dll
+C:\Courses\WCF\LinqNorthwindDAL\LINQNorthwindLogic\bin\Debug\EntityFramework.dll
+C:\Courses\WCF\LinqNorthwindDAL\LINQNorthwindLogic\bin\Debug\LINQNorthwindBDO.pdb
+C:\Courses\WCF\LinqNorthwindDAL\LINQNorthwindLogic\bin\Debug\LinqNorthwindDAL.pdb
+C:\Courses\WCF\LinqNorthwindDAL\LINQNorthwindLogic\bin\Debug\EntityFramework.xml
+C:\Courses\WCF\LinqNorthwindDAL\LINQNorthwindLogic\obj\Debug\LINQNorthwindLogic.csprojResolveAssemblyReference.cache
+C:\Courses\WCF\LinqNorthwindDAL\LINQNorthwindLogic\obj\Debug\LINQNorthwindLogic.dll
+C:\Courses\WCF\LinqNorthwindDAL\LINQNorthwindLogic\obj\Debug\LINQNorthwindLogic.pdb
+C:\Courses\WCF\DistNorthwind\LINQNorthwindLogic\bin\Debug\LINQNorthwindLogic.dll.config
+C:\Courses\WCF\DistNorthwind\LINQNorthwindLogic\bin\Debug\LINQNorthwindLogic.dll
+C:\Courses\WCF\DistNorthwind\LINQNorthwindLogic\bin\Debug\LINQNorthwindLogic.pdb
+C:\Courses\WCF\DistNorthwind\LINQNorthwindLogic\bin\Debug\LINQNorthwindBDO.dll
+C:\Courses\WCF\DistNorthwind\LINQNorthwindLogic\bin\Debug\LinqNorthwindDAL.dll
+C:\Courses\WCF\DistNorthwind\LINQNorthwindLogic\bin\Debug\EntityFramework.dll
+C:\Courses\WCF\DistNorthwind\LINQNorthwindLogic\bin\Debug\LINQNorthwindBDO.pdb
+C:\Courses\WCF\DistNorthwind\LINQNorthwindLogic\bin\Debug\LinqNorthwindDAL.pdb
+C:\Courses\WCF\DistNorthwind\LINQNorthwindLogic\bin\Debug\EntityFramework.xml
+C:\Courses\WCF\DistNorthwind\LINQNorthwindLogic\obj\Debug\LINQNorthwindLogic.csprojResolveAssemblyReference.cache
+C:\Courses\WCF\DistNorthwind\LINQNorthwindLogic\obj\Debug\LINQNorthwindLogic.dll
+C:\Courses\WCF\DistNorthwind\LINQNorthwindLogic\obj\Debug\LINQNorthwindLogic.pdb
+C:\Apps\App Tests\WCF\DistNorthwind\LINQNorthwindLogic\bin\Debug\LINQNorthwindLogic.dll.config
+C:\Apps\App Tests\WCF\DistNorthwind\LINQNorthwindLogic\bin\Debug\LINQNorthwindLogic.dll
+C:\Apps\App Tests\WCF\DistNorthwind\LINQNorthwindLogic\bin\Debug\LINQNorthwindLogic.pdb
+C:\Apps\App Tests\WCF\DistNorthwind\LINQNorthwindLogic\bin\Debug\LINQNorthwindBDO.dll
+C:\Apps\App Tests\WCF\DistNorthwind\LINQNorthwindLogic\bin\Debug\LinqNorthwindDAL.dll
+C:\Apps\App Tests\WCF\DistNorthwind\LINQNorthwindLogic\bin\Debug\EntityFramework.dll
+C:\Apps\App Tests\WCF\DistNorthwind\LINQNorthwindLogic\bin\Debug\LINQNorthwindBDO.pdb
+C:\Apps\App Tests\WCF\DistNorthwind\LINQNorthwindLogic\bin\Debug\LinqNorthwindDAL.pdb
+C:\Apps\App Tests\WCF\DistNorthwind\LINQNorthwindLogic\bin\Debug\EntityFramework.xml
+C:\Apps\App Tests\WCF\DistNorthwind\LINQNorthwindLogic\obj\Debug\LINQNorthwindLogic.csprojResolveAssemblyReference.cache
+C:\Apps\App Tests\WCF\DistNorthwind\LINQNorthwindLogic\obj\Debug\LINQNorthwindLogic.dll
+C:\Apps\App Tests\WCF\DistNorthwind\LINQNorthwindLogic\obj\Debug\LINQNorthwindLogic.pdb
