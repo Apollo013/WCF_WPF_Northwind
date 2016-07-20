@@ -3,7 +3,7 @@ A WCF app demonstrating how to connect to a database to perform CRUD operations.
 
 ---
 
-Developed using VS2015 Community
+Developed using VS2015 Community. Uses the Product table from the Northwind database (not included)
 
 ---
 
