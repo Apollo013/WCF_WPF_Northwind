@@ -1,35 +1,49 @@
-﻿using LINQNorthwind.Models.BusinessDomainObjects;
+﻿using LINQNorthwind.Models.DataTransferObjects;
+using LINQNorthwind.Models.ModelFactories;
 using LinqNorthwindDAL;
+using System;
 
 namespace LINQNorthwindLogic
 {
     public class ProductLogic
     {
         ProductDAO productDAO = new ProductDAO();
+        ModelFactory modelFactory = new ModelFactory();
 
-        public ProductBDO GetProduct(int id)
+        /// <summary>
+        /// Gets a Product
+        /// </summary>
+        /// <param name="id"></param>
+        /// <returns></returns>
+        public ProductDTO GetProduct(int id)
         {
-            return productDAO.GetProduct(id);
+            return modelFactory.Create(productDAO.GetProduct(id));
         }
 
-        public bool UpdateProduct(ref ProductBDO productBDO, ref string message)
+        /// <summary>
+        /// Updates Product Table
+        /// </summary>
+        /// <param name="product"></param>
+        /// <param name="message"></param>
+        /// <returns></returns>
+        public bool UpdateProduct(ref ProductDTO product, ref string message)
         {
-            var productInDb = GetProduct(productBDO.ProductID);
-            if (productInDb == null)
+            var productInDB = productDAO.GetProduct(product.ProductID);
+            if (productInDB == null)
             {
                 message = "Product not Found";
-                return false;
+                throw new Exception("No product found with id: " + product.ProductID);
             }
 
             // a product cannot be discontinued if there are non-fulfilled orders
-            if (productBDO.Discontinued == true && productInDb.UnitsOnOrder > 0)
+            if (product.Discontinued == true && productInDB.UnitsOnOrder > 0)
             {
                 message = "This Product Cannot Be Discontinued";
                 return false;
             }
             else
             {
-                return productDAO.UpdateProduct(ref productBDO, ref message);
+                return productDAO.UpdateProduct(ref product, ref message);
             }
         }
     }

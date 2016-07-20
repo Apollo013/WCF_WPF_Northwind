@@ -90,3 +90,4 @@ C:\Apps\Published\WCF_WPF_Northwind\DistNorthwindWPF\obj\Debug\DistNorthwindWPF_
 C:\Apps\Published\WCF_WPF_Northwind\DistNorthwindWPF\obj\Debug\DistNorthwindWPF.g.resources
 C:\Apps\Published\WCF_WPF_Northwind\DistNorthwindWPF\obj\Debug\DistNorthwindWPF.Properties.Resources.resources
 C:\Apps\Published\WCF_WPF_Northwind\DistNorthwindWPF\obj\Debug\DistNorthwindWPF.csproj.GenerateResource.Cache
+C:\Apps\Published\WCF_WPF_Northwind\DistNorthwindWPF\obj\Debug\DistNorthwindWPF.csprojResolveAssemblyReference.cache
