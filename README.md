@@ -19,7 +19,6 @@ Developed using VS2015 Community. Uses the Product table from the Northwind data
 
 ---
 
----
 ####Resources
 | Title | Author | Publisher |
 | --------- | --------- | ------- |
